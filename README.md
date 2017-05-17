@@ -54,8 +54,12 @@
 
 ## Серверное программирование и backend-фреймворки
 - [ ] [Full Stack Foundations by Amazon Web Services](https://www.udacity.com/course/full-stack-foundations--ud088)
+- [ ] [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites)
+- [ ] [Learn Object Oriented PHP By Building a Complete Website](https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website)
 
 ## CMS
+- [ ] [WordPress Essential Training](https://www.lynda.com/WordPress-tutorials/WordPress-Essential-Training/372542-2.html)
+- [ ] [How to Make a Wordpress Website 2017](https://www.udemy.com/wordpress-4-for-beginners)
 
 ## Node.js
 - [ ] [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
