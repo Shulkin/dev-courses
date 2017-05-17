@@ -17,3 +17,13 @@
 
 ## Базы данных
 - [ ] [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+
+## Настройка веб-сервера
+
+## Серверное программирование и CMS
+
+## HTML и CSS
+
+## JavaScript
+
+## jQuery
