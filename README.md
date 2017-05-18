@@ -2,6 +2,7 @@
 
 ## Базовые знания по архитектуре ПК, ОС и Интернет
 - [x] [Операционные системы](https://ru.hexlet.io/courses/operating_systems)
+- [ ] [Computer Networking Tutorial](https://thenewboston.com/videos.php?cat=44)
 - [ ] [Internet 101 от KhanAcademy](https://www.khanacademy.org/computing/computer-science/internet-intro)
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
@@ -13,6 +14,7 @@
 
 ## Linux и CLI, Bash
 - [x] [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
+- [ ] [Linux Tutorial for Beginners](https://thenewboston.com/videos.php?cat=357)
 - [ ] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 ## SSH
@@ -46,20 +48,31 @@
 ## AJAX
 - [ ] [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 
+## D3.js
+- [ ] [D3.js](https://teamtreehouse.com/library/d3js)
+
 ## Тестирование кода
 - [ ] [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+- [ ] [JavaScript Unit Testing](https://teamtreehouse.com/library/javascript-unit-testing)
 
 ## Frontend-фреймворки
 - [ ] [Front End Frameworks by Google](https://www.udacity.com/course/front-end-frameworks--ud894)
+- [ ] [Shaping Up With AngularJS](https://www.codeschool.com/courses/shaping-up-with-angularjs)
 
 ## Серверное программирование и backend-фреймворки
 - [ ] [Full Stack Foundations by Amazon Web Services](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [ ] [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites)
 - [ ] [Learn Object Oriented PHP By Building a Complete Website](https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website)
+- [ ] [Build a PHP MVC Application](https://thenewboston.com/videos.php?cat=88)
+- [ ] [Laravel 4 Basics](https://teamtreehouse.com/library/laravel-4-basics)
+- [ ] [Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
+- [ ] [Laravel 5.4 From Scratch](https://laracasts.com/series/laravel-from-scratch-2017)
 
 ## CMS
 - [ ] [WordPress Essential Training](https://www.lynda.com/WordPress-tutorials/WordPress-Essential-Training/372542-2.html)
 - [ ] [How to Make a Wordpress Website 2017](https://www.udemy.com/wordpress-4-for-beginners)
+- [ ] [WordPress Basics](https://thenewboston.com/videos.php?cat=105)
+- [ ] [Drupal 7 Basics](https://teamtreehouse.com/library/drupal-basics)
 
 ## Node.js
 - [ ] [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
