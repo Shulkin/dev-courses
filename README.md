@@ -78,6 +78,6 @@
 - [ ] [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 - [ ] [Скринкаст Node.js](https://learn.javascript.ru/screencast/nodejs)
 
-## Системы сборки, task-runners и пр.
+## Сборщики проектов, сборщики модулей и пр.
 - [ ] [Скринкаст Gulp](https://learn.javascript.ru/screencast/gulp)
 - [ ] [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack)
