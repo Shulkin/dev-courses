@@ -2,7 +2,7 @@
 
 ## Базовые знания по архитектуре ПК, ОС и Интернет
 - [x] [Операционные системы](https://ru.hexlet.io/courses/operating_systems)
-- [ ] [Computer Networking Tutorial](https://thenewboston.com/videos.php?cat=44)
+- [x] [Computer Networking Tutorial](https://thenewboston.com/videos.php?cat=44)
 - [ ] [Internet 101 от KhanAcademy](https://www.khanacademy.org/computing/computer-science/internet-intro)
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
