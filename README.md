@@ -14,7 +14,7 @@
 
 ## Linux и CLI, Bash
 - [x] [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
-- [ ] [Linux Tutorial for Beginners](https://thenewboston.com/videos.php?cat=357)
+- [x] [Linux Tutorial for Beginners](https://thenewboston.com/videos.php?cat=357)
 - [ ] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 ## SSH
